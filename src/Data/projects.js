@@ -7,7 +7,7 @@ export const projects = [
     {
       title: "E-Commerce Store",
       image: "/e_com.jpeg",
-      description: "HTML, CSS & JS store with cart and product listing features...",
+      description: "HTML, CSS & JS store with cart and product listing features, you can buy and sell product ",
     },
   ];
   
