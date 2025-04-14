@@ -2,7 +2,7 @@ export const Experience = [
     {
       title: "React Cohort",
       image: "/tutor.jpg",
-      description: "As a tutor in the Akatsuki React Cohort, I am responsible for teaching 100 students the fundamentals of JavaScript and TypeScript. The main goal of this event is to provide a strong foundation in React, and to ensure students have a solid understanding of core concepts in JavaScript and TypeScript before diving into React. My role involves breaking down complex topics into digestible lessons, empowering students to build their skills and confidence in web development.
+      description: "As a tutor in the Akatsuki React Cohort, I am responsible for teaching 100 students the fundamentals of JavaScript and TypeScript. The main goal of this event is to provide a strong foundation in React, and to ensure students have a solid understanding of core concepts in JavaScript and TypeScript before diving into React. My role involves breaking down complex topics into digestible lessons, empowering students to build their skills and confidence in web development."
 
 ",
     },
