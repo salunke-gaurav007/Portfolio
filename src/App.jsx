@@ -7,7 +7,7 @@ import Contact from '../src/components/Contact';
 
 const App = () => {
   return (
-    <div className="bg-slate-900 text-white font-sans">
+    <div className="bg-slate-900  text-white font-sans">
       <Hero />
       <About />
       <Skills />
