@@ -5,7 +5,9 @@ const Skills = () => {
         <h2 className="text-2xl font-semibold mb-6">Skills</h2>
         <div className="grid grid-cols-3 sm:grid-cols-6 gap-6">
           {skillList.map((skill) => (
-            <img key={skill} src={`/${skill}.png`} alt={skill} className="w-16 mx-auto hover:scale-105 transition-transform" />
+            <>
+            <img key={skill} src={`/${skill}.png`} alt={skill} className="w-16 mx-auto hover:scale-150 transition-transform" />
+            </>
           ))}
         </div>
       </section>
